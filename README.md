@@ -19,10 +19,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/hrishabhxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrishabhxcode" height="30" width="40" /></a>
 <a href="https://instagram.com/i_hrishabhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_hrishabhr" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hrishabh_cbse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hrishabh_cbse" height="30" width="40" /></a>
+<!--<a href="https://www.codechef.com/users/hrishabh_cbse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hrishabh_cbse" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hrishabh_cbse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hrishabh_cbse" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hrishabh18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hrishabh18" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hrishabgfvx/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hrishabgfvx/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hrishabgfvx/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hrishabgfvx/profile" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
